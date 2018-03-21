@@ -18,7 +18,7 @@ You need to have the following installed in your laptop for the course:
 - Anaconda (get it from [here](https://www.anaconda.com/download/#macos))
 - Python > 3.5
 - pip
-- Jupyter notebooks
+- Jupyter notebooks (already installed with Anaconda)
 - beautifulsoup4
 - requests
 
