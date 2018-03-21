@@ -1,0 +1,8 @@
+name: webdata
+dependencies:
+  - python=3.6
+  - beautifulsoup4
+  - pip:
+    - requests
+    - tweetpy
+    - json
