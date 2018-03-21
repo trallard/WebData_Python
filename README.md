@@ -14,17 +14,21 @@ What will be covered?
 - Commonly returned data formats: HTML, JSON, XML
 - Programatic web data collection and streams
 - Regular expressions 📃
+- Plotting web data
 
+The materials are split into broad sections containing exercises, explanations and most of the information you need to complete them. The material covered is far from exhaustive. Instead, we try to provide enough information and tasks to get you started and we hope to get you quickly to a level where you are then capable of continuing to use Python to collect and handle web data.
 
 ## Pre requisites
-For you to be able to follow along the course you need to have a basic understanding of:
+For you to be able to follow along the course you need to have a basic knowledge of Python as well as a basic understanding of:
 - Functions
 - Loops
 - Nested data structures
-- Variables
+- Variables assignation and types
 
 
-## Requirements
+## Software requirements
+We recommend using the Anaconda distribution of Python. It's free and comes with a large number of additional modules included ready for importing into your scripts, IPython shell and notebook interfaces, a powerful Python text editor (Spyder), and a good package manager, conda, for updating and installing packages.
+
 You need to have the following installed in your laptop for the course:
 - Anaconda (get it from [here](https://www.anaconda.com/download/#macos))
 - Python > 3.5
