@@ -5,3 +5,5 @@ dependencies:
   - pip:
     - requests
     - tweetpy
+    - scrapy
+    - lxml

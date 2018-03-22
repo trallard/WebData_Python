@@ -24,6 +24,8 @@ For you to be able to follow along the course you need to have a basic knowledge
 - Loops
 - Nested data structures
 - Variables assignation and types
+- How to import modules in Python
+- Basic HTML tagging
 
 
 ## Software requirements
@@ -36,6 +38,8 @@ You need to have the following installed in your laptop for the course:
 - Jupyter notebooks (already installed with Anaconda)
 - beautifulsoup4
 - requests
+- scrapy
+- lxml
 - shell (we recommend using git bash: installed with Git or [cmdr](http://cmder.net) )
 
 ✨ The easiest/fastest way to get this is to download and install Anaconda. Make sure to add it to your Path during installation.
