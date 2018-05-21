@@ -14,7 +14,7 @@ What will be covered?
 - Commonly returned data formats: HTML, JSON, XML
 - Programatic web data collection and streams
 - Regular expressions 📃
-- Plotting web data
+- Manipulating web data with Pandas (visualization included)
 
 The materials are split into broad sections containing exercises, explanations and most of the information you need to complete them. The material covered is far from exhaustive. Instead, we try to provide enough information and tasks to get you started and we hope to get you quickly to a level where you are then capable of continuing to use Python to collect and handle web data.
 
