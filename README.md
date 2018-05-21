@@ -69,7 +69,11 @@ $ source activate webdata
 
  # Course content
 
- 1. [Introduction to regular expressions]:
+ 1. [Introduction to regular expressions](01_Regex.ipynb)
+ 2. [Working with dictionaries](02_Dictionaries.ipynb)
+ 3. [Web scraping](03_Web-scraping.ipynb)
+ 4. [Json and xml data](04_JSON.ipynb)
+ 
 
  ## Acknowledgements
 
