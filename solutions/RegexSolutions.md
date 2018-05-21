@@ -12,7 +12,8 @@ b) There are 25 matches in the file (every even record). Note that there are a f
 
 ```person = open('./example_files/person_info.csv', 'r')
 people = person.read().split()
-show_matches(r'\d\d\.\d\d\.\d\d\d\d', people)```
+show_matches(r'\d\d\.\d\d\.\d\d\d\d', people)
+```
 
 
 ## Exercise 1.3
