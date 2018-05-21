@@ -28,7 +28,7 @@ For you to be able to follow along the course you need to have a basic knowledge
 - Basic HTML tagging
 
 
-## Software requirements
+## 💻 Software requirements
 We recommend using the Anaconda distribution of Python. It's free and comes with a large number of additional modules included ready for importing into your scripts, IPython shell and notebook interfaces, a powerful Python text editor (Spyder), and a good package manager, conda, for updating and installing packages.
 
 You need to have the following installed in your laptop for the course:
@@ -67,13 +67,14 @@ $ source activate webdata
  $ source deactivate
  ```
 
- # Course content
+ # ⚡️ Course content
 
  1. [Introduction to regular expressions](01_Regex.ipynb)
  2. [Working with dictionaries](02_Dictionaries.ipynb)
- 3. [Web scraping](03_Web-scraping.ipynb)
- 4. [Json and xml data](04_JSON.ipynb)
- 
+ 3. [Web scrapping](03_Web-scraping.ipynb)
+ 4. [Working with JSON data](04_JSON.ipynb)
+ 5. [Accessing APIs](05_APIs.ipynb)
+
 
  ## Acknowledgements
 
