@@ -1,5 +1,7 @@
 [![DOI](https://zenodo.org/badge/124538634.svg)](https://zenodo.org/badge/latestdoi/124538634)
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/trallard/WebData_Python.git/master)
+
 
 # Working with Web Data in Python 🐍
 Course materials for working with web data in Python. Originally developed for a 1 full-day course at the Methods Institute @Sheffield
