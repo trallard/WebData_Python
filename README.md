@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/124538634.svg)](https://zenodo.org/badge/latestdoi/124538634)
+
+
 # Working with Web Data in Python 🐍
 Course materials for working with web data in Python. Originally developed for a 1 full-day course at the Methods Institute @Sheffield
 
